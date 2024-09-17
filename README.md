@@ -1,11 +1,35 @@
-### Hi there 👋
+# Abdullah Irfan
 
-#### I am Abdullah Irfan, a cyber-security student and penetration tester.
+## Job Description
+* Software Engineer
+* Data Engineer
+* GenAI Engineer
 
-#### Here's a little bit about me:
-- 🔭 I’m currently working on Digital Forensics and Penetration Testing
-- 🌱 I’m currently learning Advanced Penetration Testing and Network Security
-- 👯 I’m looking to collaborate on projects related to cyber security
-- 💬 Ask me about Digital Forensics, Penetration Testing, Cyber Security and even Computer Science in general
-- 📫 How to reach me: abdullahirfan2001@gmail.com
-- 😄 Pronouns: he/him
+## Area of Expertise
+* Clean code
+* System design
+* Agentic GenAI applications
+* Database design
+* Distributed systems
+
+## Background
+1. Built my own PC when I was 12
+2. Read a few articles about hacking and thought that was the shit
+3. Got into a degree for cyber security
+4. Did a few certifications and put my heart into penetration testing
+5. Realised cyber security wasn't the career for me
+6. Started exploring other career paths
+7. Got a part-time software engineering job in my final year
+8. Realised that WAS the shit
+9. Well, I'm working as a software engineer ever since and I'm loving every bit of it! 😁
+
+## Languages
+* Python
+* Go
+
+## Technology
+* Kubernetes
+* Langchain
+* Apache Spark
+* Apache Kafka
+* FastAPI

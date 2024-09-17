@@ -5,7 +5,7 @@
 * Data Engineer
 * GenAI Engineer
 
-## Area of Expertise
+## Areas of Expertise
 * Clean code
 * System design
 * Agentic GenAI applications
